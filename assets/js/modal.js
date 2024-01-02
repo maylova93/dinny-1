@@ -1,7 +1,7 @@
 // THE JAVASCRIPT
 
 
-displayModal("Cookie_container")
+//displayModal("Cookie_container");
 
 
 function displayModal(id) {

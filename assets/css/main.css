@@ -114,8 +114,7 @@ section article p {
 }
 .section-staff figure img,
 .section-about figure img,
-.section-delivery img,
-.section-gallery img {
+.section-delivery img {
   display: block;
   width: 100%;
   height: 100%;
