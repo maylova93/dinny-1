@@ -5,7 +5,8 @@
   left: 0;
   right: 0;
   top: 0;
-  bottom: 0;
+  /* bottom: 0; */
+  height: 100%;
   overflow: auto; /* Enable scroll if needed */
   background-color: #000000c6; /* TRANSPARENT FALLBACK FILL */
 }
