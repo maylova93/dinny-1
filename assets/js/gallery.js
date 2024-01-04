@@ -71,6 +71,7 @@ showImage();
 
 function showImage() {
 
+    //test
     let myUrl = 'assets/images/gfx/' + myImages[myImageCount];
 
     myGalleryElement.src = myUrl;
